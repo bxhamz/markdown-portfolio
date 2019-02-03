@@ -1,2 +1,1 @@
-https://dragonball.fandom.com/wiki/Goku
-goku image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
