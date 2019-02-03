@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+*likes to shop
+*likes to workout
+  *lift weights to be specific
+  
